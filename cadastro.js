@@ -1,8 +1,5 @@
-console.log (window.bootbox)
+console.log(window.bootbox)
 
-const bootbox = document.write(
-    unescape("")
-  );
 
 
 let email = document.querySelector(".email")

@@ -1,41 +1,46 @@
-*{
+* {
     padding: 0;
     margin: 0;
     box-sizing: 0;
 }
-header{
+
+header {
     padding: 0.5%;
     background-color: rgb(88, 2, 88);
     width: 100%;
     text-align: center;
 }
 
-body{
+body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 
 
-.logo{
-    justify-content: first baseline; 
-    height: 200px;    
+.logo {
+    justify-content: first baseline;
+    height: 200px;
     margin: zero auto;
     width: 600px;
+
+}
+
+.Titulo {
+    text-align: center;
+}
+
+.logar {
+   
+    text-align: center;
+}
+
+.Informacoes {
     
-}
-.Titulo{
     text-align: center;
 }
 
-.logar{
-    text-align: center;
-}
-
-.Informacoes{
-    text-align: center;
-}
-
-.Entrar{
+.Entrar {
     height: 50px;
     text-align: center;
 }
+
